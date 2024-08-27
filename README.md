@@ -44,10 +44,6 @@ pic-spider-web 是个人最近学习 vue.js 而开发的一个练手项目，没
 点击标题可以访问图集的原始链接；
 若要批量保存图片到本地，可以使用[这个浏览器插件](https://github.com/htfei/chrome_exts/tree/master/5.1%20%E4%B8%8B%E8%BD%BD%20save_all_images)，好处是能根据图集标题自动创建文件夹.
 
-
-![点击查看截图](./screenshot/save.png)
-![点击查看截图](./screenshot/save2.png)
-
 ### 4.规则修改页
 
 ```c
@@ -66,8 +62,6 @@ pic-spider-web 是个人最近学习 vue.js 而开发的一个练手项目，没
     5.你可以对websql中已经缓存好的历史图集进行搜索；
 ```
 
-![点击查看截图](./screenshot/news.png)
-![点击查看截图](./screenshot/news2.png)
 
 ### 6.收藏页（高级）
 
